@@ -6,7 +6,7 @@
 
 ## Demo
 
-Check out the live demo here: [DragonTrail Demo](#) <!-- Replace # with the link to your live demo if available -->
+Check out the live demo here: [DragonTrail Demo](https://trankiencuong2003.github.io/Dragon-Trail/)
 
 ## Features
 
